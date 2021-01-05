@@ -55,7 +55,9 @@ h2{
     border-radius: 5px;
 }
 .link-button:hover{
-    background-color: #c91960;
+    background: transparent;
+    border: 2px solid #ec4f8f;
+    color: black;
     cursor: pointer;
     transition: 0.4s ease-in-out;
 }
